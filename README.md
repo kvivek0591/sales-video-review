@@ -1,6 +1,12 @@
-# Call Review Skill
+# Sales Video Review
 
-Comprehensive call analysis system for sales and client calls. Combines visual frame analysis with transcript pattern detection to provide actionable insights.
+A picture says a thousand words. A video—a million.
+
+Yet in the world of notetakers and call analytics, we've been stuck with text analysis. Transcripts. Summaries. Keywords. Meanwhile, the richest data—facial expressions, body language, visual reactions—gets thrown away.
+
+**That changes. Now.**
+
+Capture emotions, responses, and contextually analyze your video calls. This tool combines visual frame analysis with transcript pattern detection to surface insights that text alone can never reveal.
 
 ## What It Does
 

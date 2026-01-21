@@ -1,0 +1,9 @@
+[00:00:00] Hello everyone, thanks for joining today's discovery call.
+[00:00:05] I'm excited to learn more about your compliance challenges.
+[00:00:12] So our main pain point is really around compliance tracking.
+[00:00:18] We have multiple systems and it's hard to get a unified view.
+[00:00:25] That makes sense. Can you tell me more about your current workflow?
+[00:00:32] Sure, we currently use spreadsheets and email to track everything.
+[00:00:40] It's very manual and we often miss deadlines because of it.
+[00:00:48] I see. How many people are involved in the compliance process?
+[00:00:55] About fifteen people across three departments.

@@ -1,0 +1,32 @@
+# Video files (too large for git)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Transcript files (may contain sensitive content)
+*.srt
+*.vtt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+venv/
+
+# Output directories
+output/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

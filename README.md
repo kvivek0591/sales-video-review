@@ -410,3 +410,11 @@ For 2+ hour videos:
    - Addresses the budget objection
    - Proposes clear next steps
    ```
+
+---
+
+## About
+
+Built by the team at **[CogniSwitch](https://cogniswitch.ai)** — Governance & Compliance Infrastructure for Healthcare AI.
+
+We help healthcare organizations move AI agents from pilot to production by providing the trust layer that proves SOP adherence, blocks hallucinations, and generates immutable compliance evidence.

@@ -262,6 +262,7 @@ See the `prompts/` directory for detailed analysis templates:
 - **prompts/demo_review.md** - Product demo engagement analysis
 - **prompts/checkin_health.md** - Client health and expansion signals
 - **prompts/visual_cues.md** - Guide for analyzing visual indicators
+- **prompts/disc_analysis.md** - DISC personality profile analysis and coaching
 
 ## Call Type Guidelines
 
@@ -294,12 +295,13 @@ video-to-frames/
 ├── video_processor.py     # Frame extraction + speaker metrics
 ├── call_analyzer.py       # Pattern detection + analysis
 ├── process_video.sh       # Legacy video-only processing
-├── SKILL.md               # This documentation
+├── README.md              # This documentation
 ├── prompts/               # Claude analysis prompt templates
 │   ├── discovery_call.md
 │   ├── demo_review.md
 │   ├── checkin_health.md
-│   └── visual_cues.md
+│   ├── visual_cues.md
+│   └── disc_analysis.md
 ├── samples/               # Sample transcript files
 └── output/                # Default output location
 ```
